@@ -1,0 +1,9 @@
+PP EE
+EE TT XX
+XX ii TT XX
+XX epsilon
+TT FF YY
+YY mm FF YY
+YY epsilon
+FF id
+FF bo EE bc
